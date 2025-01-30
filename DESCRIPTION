@@ -1,0 +1,11 @@
+Package: MediationBMDSearch
+Title: A Shiny App for Searching Mediation Effects on BMD
+Version: 0.1.0
+Authors@R: person("Kuan-Jui Su", "Ray", email = "raydais@tulane.edu", role = c("aut", "cre"))
+Description: A package to launch a Shiny app for searching mediation effects on BMD.
+Depends: R (>= 4.0)
+Imports: shiny, DT, ggplot2
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
