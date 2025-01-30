@@ -1,0 +1,4 @@
+Gene, SNP, Mediator, BMD_Type, Effect_Size, P_Value
+ABC1, rs123, MetaboliteX, FA_BMD, 0.25, 5e-3
+XYZ2, rs456, ProteinY, LS_BMD, -0.15, 1e-4
+DEF3, rs789, PathwayZ, FN_BMD, 0.10, 2e-2
